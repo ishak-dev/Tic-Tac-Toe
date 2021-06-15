@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623342011 source:c:\users\isko\desktop\c\proejaktei\main.c
+	<stdio.h>
+	<stdlib.h>
+
